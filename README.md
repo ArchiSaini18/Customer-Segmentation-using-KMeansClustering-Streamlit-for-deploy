@@ -139,3 +139,17 @@
  • Deploy on Streamlit Cloud / AWS
  
  • Implement cluster-based marketing recommendations
+
+ -------------------------------------------------
+ **Screenshot**
+  -------------------------------------------------
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20222043.png
+
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215734.png
+
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215744.png
+
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215752.png
+
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215759.png
+  
