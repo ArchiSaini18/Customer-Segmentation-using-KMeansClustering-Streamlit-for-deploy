@@ -1,7 +1,6 @@
  🛍️ CUSTOMER SEGMENTATION USING K-MEANS CLUSTERING
-# =================================================
-#
-# 📌 PROJECT OVERVIEW
+=================================================
+📌 PROJECT OVERVIEW
 # -------------------------------------------------
 # This project analyzes customer behavior and segments customers
 # into meaningful groups using the K-Means clustering algorithm.
