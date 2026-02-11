@@ -1,5 +1,11 @@
  🛍️ CUSTOMER SEGMENTATION USING K-MEANS CLUSTERING
 =================================================
+🚀 Live Application
+
+👉 Direct View / Try the App:
+https://customer-segmentation-using-kmeansclustering-app-for-deploy-5a.streamlit.app/
+
+ -----------------------------------------------
 📌 **PROJECT OVERVIEW**
  -------------------------------------------------
   This project analyzes customer behavior and segments customers into meaningful groups using the K-Means clustering algorithm.
