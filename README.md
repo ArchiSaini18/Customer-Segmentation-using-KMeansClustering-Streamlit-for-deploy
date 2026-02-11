@@ -3,7 +3,7 @@
 🚀 Live Application
 
 👉 Direct View / Try the App:
-https://customer-segmentation-using-kmeansclustering-app-for-deploy-5a.streamlit.app/
+https://customer-segmentation-using-kmeansclustering-app-for-deploy.streamlit.app/
 
  -----------------------------------------------
 📌 **PROJECT OVERVIEW**
