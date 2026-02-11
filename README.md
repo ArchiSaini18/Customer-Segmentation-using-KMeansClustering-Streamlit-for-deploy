@@ -149,13 +149,12 @@ https://customer-segmentation-using-kmeansclustering-app-for-deploy.streamlit.ap
  -------------------------------------------------
  **Screenshot**
   -------------------------------------------------
-link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20222043.png
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Login%20Page.png
 
-link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215734.png
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/data%20insert.png
 
-link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215744.png
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Predict.png
 
-link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215752.png
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/graph.png
 
-link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/Screenshot%202026-02-03%20215759.png
-  
+link: https://github.com/ArchiSaini18/Customer-Segmentation-using-KMeansClustering-Streamlit-for-deploy/blob/main/cluster%20summary.png
